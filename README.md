@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+## Name:Guru Prasad DR
+## RegNo:212225040104
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
